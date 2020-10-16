@@ -1,7 +1,7 @@
 # **Machine Learning** #
 
 <p align="center">
-  <img width=130 height=200 src="ML.gif">
+  <img width=200 height=130 src="ML.gif">
 </p>
 
 This repository includes solutions to the Machine Learning course assignments.
